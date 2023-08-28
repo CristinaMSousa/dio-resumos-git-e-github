@@ -10,7 +10,7 @@ do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](h
 
 ## Resumo das Aulas 
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 | Gravando Alterações do Repositório Local | [Resumos]() |
 
