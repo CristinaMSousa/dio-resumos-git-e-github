@@ -10,10 +10,10 @@ do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](h
 
 ## Resumo das Aulas 
 
-| Aulas | Resumo |
+| Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações do Repositório Local | [Resumos]() |
-
+| Aula 01| [Resumos]() |
+| Aula 02| [Resumos]() |
 ```
 git init
 ```
